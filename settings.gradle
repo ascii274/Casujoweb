@@ -1,4 +1,4 @@
 rootProject.name = 'CasujoWeb'
-include 'Casujo-admin'
-include 'Casujo-customer'
-include 'Casujo-login'
+include 'Casujoweb-admin'
+include 'Casujoweb-customer'
+include 'Casujoweb-login'
